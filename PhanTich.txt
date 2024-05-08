@@ -1,0 +1,44 @@
+Khoa gồm mã khoa, tên khoa 
+Học phân học gồm mã học phần, tên học phần ,mã khoa, số tín chỉ,  tiên quyết, môn học trước ,Loại học phần
+
+Giảng viên gồm mã khoa, mã giáo viên ,họ tên giáo viên,năm sinh,bằng cấp ,giới tính
+--------------------------------------------------------------------------------------------------------------
+Ngành học sẽ có mã ngành, tên ngành ,hệ (đại học,cao đẳng ),số kì học
+Chuyên ngành  gồm mã chuyên ngành, tên chuyên ngành ,mã ngành
+Kì học gồm nhiều học phần : mã ngành,mã chuyên ngành(chỉ từ kì 3 mơi có chuyên ngành và nếu mã chuyên ngành trống thì ko xét chuyên ngành) ,kì thứ bao nhiêu ,mã học phần
+
+Lớp học :Tên lớp, mã ngành , mã giảng viên quản lí
+Sinh viên gồm mã sinh viên, họ tên sinh viên ,giới tính, mã ngành ,Khóa học(tính theo số kì từ năm  đến năm ),tên lớp học
+Ví dụ :
+Ngành học CNTT 
+Kì 1: Mã học phần :111 tin cơ sở
+      Mã học phần 222 Logic học
+Kì 2:
+Kì 3:
+Chuyên ngành 1
+     Mã học phần :333 Lập trình.Net
+Chuyên ngành 2
+     Mã học phần :444 qeqwe
+Học chung
+------------------------------------------------------------------------------------------------------------
+Quản lí cơ sở
+Khu vực gồm mã cơ sở, mã khu vực 
+Tầng học gồm mã tầng,mã khu vực, tầng bao nhiêu, mã khoa
+Phòng học mã phòng học, mã tầng ,loại phòng, số người,trạng thái
+------------------------------------------------------------------------------------------------------------
+Thêm thông tin học sinh
+  Điền thông tin sinh viên + ngành mà học sinh theo sau đó sinh ra mã sinh viên
+Mã sinh viên đc tạo ra 2 số đầu là số năm bắt đầu học ,2 số tiếp theo thể hiện cơ sở,2 số tiếp theo là ngành, 5 số cuối là thứ tự nhập học
+ lúc vào khoa(Không sửa được 
+mã sinh viên nếu sinh viên sang ngành khác nhưng vẫn có thể sắp kiểu khác) 
+ Xong khi đặt mã xong thì xếp lớp, Lớp cứ 50 người sẽ xếp lớp khác
+  Đến kì học ,thầy cô trưởng khoa sẽ từ app xây dựng các môn trong kì, phân công thầy cô giảng dạy .Chuyển đến addmin để xếp lịch.Cuối cùng
+sinh ra mã lớp học phần (4 số đầu:0101  + 6 số đâu: mã học phần +2 số cuối:số thứ tự lớp đc tạo)
+Gửi đến cho giảng viên và học sinh
+
+ Trong quá trình điểm danh hs (nghỉ phép và ko phép).Cuối kì nhập điểm và tính điểm chuyên cần gửi danh sách lập danh sách thi và xếp lịch thi gửi lịch đến trưởng khoa 
+phân công coi .
+ Nhập điểm thi và xét danh sách sinh viên thi lại và học lại. Mở đăng kí thi lại và xếp lịch thi luôn (thi trong 3 tuần và thi lại....)
+ Tích đã nộp khi sinh viên đóng tiền học 
+ 
+ Kết quả học tập lưu trong thông tin sinh viên như sau:

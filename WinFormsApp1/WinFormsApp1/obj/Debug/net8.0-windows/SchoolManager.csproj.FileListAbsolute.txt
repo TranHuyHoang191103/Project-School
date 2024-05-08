@@ -1,0 +1,15 @@
+E:\Project-School\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\SchoolManager.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project-School\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\SchoolManager.AssemblyInfoInputs.cache
+E:\Project-School\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\SchoolManager.AssemblyInfo.cs
+E:\Project-School\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\SchoolManager.csproj.CoreCompileInputs.cache
+E:\Project-School\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\SchoolManager.sourcelink.json
+E:\Project-School\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\SchoolManager.exe
+E:\Project-School\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\SchoolManager.deps.json
+E:\Project-School\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\SchoolManager.runtimeconfig.json
+E:\Project-School\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\SchoolManager.dll
+E:\Project-School\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\SchoolManager.pdb
+E:\Project-School\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\SchoolManager.dll
+E:\Project-School\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\refint\SchoolManager.dll
+E:\Project-School\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\SchoolManager.pdb
+E:\Project-School\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\SchoolManager.genruntimeconfig.cache
+E:\Project-School\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\ref\SchoolManager.dll

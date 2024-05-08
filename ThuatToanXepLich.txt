@@ -1,0 +1,3 @@
+thuật toán di truyền 
+
+cá thể: biểu diễu bằng 1 ma trận chứa lịch học tuần gồm 1 tuần 6 ngày,1 ngày có 12 tiết => ma trận này có độ rộng là 12*6*số phòng học

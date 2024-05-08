@@ -1,0 +1,33 @@
+Nêu vấn đề
+
+Mô phỏng lại trang web sinh viên và trang web của giáo viên 
+
+-----------------------------------------------
+Trang web sinh viên
+-Hiển thị thông tin học sinh(thông tin sinh viên ,Danh sách hồ sơ cá nhân,)
+-Tin tức 
+-Học phí(tính theo mỗi kì,tiền học sẽ đc admin tích đủ khi nộp)
+-Kết quả 
+-Đăng kí học phần
+-Xem lịch học tập + thi
+-Gửi đơn 
+---------------------------------------------
+Trang web giáo viên
+-Hiển thị thông tin giảng viên
+-tin tưc
+-Lịch dạy + coi thi 
+-Quản lí lớp học (theo kì + theo lớp + theo môn )
+  +Điểm danh 
+  +Nhập điểm thường kì 
+  +Nhập điểm thi
+-----------------------------------------------
+ADMIN
+---------------------------------
+Lưu trữ + cập nhập các ngành học()
+Nhận đăng kí học phần xong tính học phí rồi xếp lịch
+Tiếp nhận đơn giảm tiền học
+Quản lí cơ sở vật chất 
+Quản lí học sinh
+Quản lí giáo viên
+Quản lí tin tức
+Xét học bổng 
