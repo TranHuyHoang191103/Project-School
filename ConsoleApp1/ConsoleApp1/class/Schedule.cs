@@ -18,7 +18,7 @@ public class Schedule : IComparable<Schedule>
     {
         List<Room> rooms = data.GetRooms();
         List<Teacher> teachers = data.GetTeachers();
-        List<Course> courses = data.GetCourses();
+        Dictionary<string, Course> courses = data.GetCourses();
         List<StudentGroup> studentGroups = data.GetStudentGroups();
 
            Random rd = new Random(Guid.NewGuid().GetHashCode());
@@ -27,8 +27,8 @@ public class Schedule : IComparable<Schedule>
         {
             int rd_room = rd.Next(0, rooms.Count);
             int rd_teacher = rd.Next(0, teachers.Count);
-            int rd_course = rd.Next(0, courses.Count);
-            classes.Add(new Class(teachers[rd_teacher], courses[rd_course], studentGroups[i], rooms[rd_room]));
+            
+            classes.Add(new Class(teachers[rd_teacher], courses[studentGroups[i].getIdCoruse()], studentGroups[i], rooms[rd_room]));
         }
         calFitness();
         return this;
@@ -44,8 +44,7 @@ public class Schedule : IComparable<Schedule>
                 number++;
             if (!classes[i].getTeacher().check(classes[i].getStudentGroup().getIdCoruse()))
                 number++;
-            if (classes[i].getCourse().getID() != classes[i].getStudentGroup().getIdCoruse())
-                number++;
+            
             for (int j = i + 1; j < classes.Count; j++)
             {
                 if (classes[i].GetRoom().getID() == classes[j].GetRoom().getID())
@@ -80,13 +79,13 @@ public class Schedule : IComparable<Schedule>
     {
         List<Room> rooms = data.GetRooms();
         List<Teacher> teachers = data.GetTeachers();
-        List<Course> courses = data.GetCourses();
+        Dictionary<string,Course> courses = data.GetCourses();
         List<StudentGroup> studentGroups = data.GetStudentGroups();
         Random rd = new Random(Guid.NewGuid().GetHashCode());
         int rd_room = rd.Next(0, rooms.Count);
         int rd_teacher = rd.Next(0, teachers.Count);
         int rd_course = rd.Next(0, courses.Count);
-        return (new Class(teachers[rd_teacher], courses[rd_course], studentGroups[i], rooms[rd_room])); 
+        return (new Class(teachers[rd_teacher], courses[studentGroups[i].getIdCoruse()], studentGroups[i], rooms[rd_room])); 
     }
     public Schedule mate(Schedule schedule)
     {

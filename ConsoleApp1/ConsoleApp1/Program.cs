@@ -22,23 +22,24 @@ namespace ConsoleApp1
             // Add more rooms if needed
         };
 
-            var courses = new List<Course>
-        {
-            new Course("111", "thuc tap lt", true, 3),
-            new Course("222", "huong doi tuong", false, 4),
-            new Course("112", "thuc tap huong doi tuong", true, 4),
-            new Course("223", "co so du lieu", false, 4),
-            new Course("225", "co so du lieu phan tan", false, 4),
-            new Course("226", "cong nghe phan mem", false, 2),
-            // Add more courses if needed
+            var courses = new Dictionary<string, Course>
+            {
+             { "111", new Course("111", "thuc tap lt", true, 3) },
+                 { "222", new Course("222", "huong doi tuong", false, 4) },
+            { "112", new Course("112", "thuc tap huong doi tuong", true, 4) },
+            { "223", new Course("223", "co so du lieu", false, 4) },
+             { "225", new Course("225", "co so du lieu phan tan", false, 4) },
+             { "226", new Course("226", "cong nghe phan mem", false, 2) }
+    // Add more courses if needed
         };
+
 
             var teachers = new List<Teacher>
         {
-            new Teacher("123", "Hoang", new List<Course> { courses[0], courses[3] }),
-            new Teacher("125", "Hoang", new List<Course> { courses[0], courses[3], courses[2] }),
-            new Teacher("234", "Nam", new List<Course> { courses[0], courses[1], courses[4], courses[5] }),
-            new Teacher("235", "Nam Uq", new List<Course> { courses[0], courses[1], courses[2], courses[3] }),
+            new Teacher("123", "Hoang", new List<Course> { courses["111"], courses["223"] }),
+            new Teacher("125", "Hoang", new List<Course> { courses["111"], courses["223"], courses["222"] }),
+            new Teacher("234", "Nam", new List<Course> { courses["112"], courses["222"], courses["225"], courses["226"] }),
+            new Teacher("235", "Nam Uq", new List<Course> { courses["111"], courses["222"], courses["112"], courses["223"] }),
             // Add more teachers if needed
         };
 

@@ -17,4 +17,5 @@ public class Course
 	public string getName() { return this.name;}
 	public int getNumberOfLesson() { return this.numberOfLesson;}
 	public bool getIsPar() { return this.isParctitalCoruse; }
+  
 }
