@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "E:\\Project-School\\ConsoleApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C47BA9F3-BE89-44C2-9773-9BD95BD6EDBE}|ConsoleApp1\\ConsoleApp1.csproj|e:\\project-school\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C47BA9F3-BE89-44C2-9773-9BD95BD6EDBE}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C47BA9F3-BE89-44C2-9773-9BD95BD6EDBE}|ConsoleApp1\\ConsoleApp1.csproj|E:\\Project-School\\ConsoleApp1\\consoleapp1\\class\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C47BA9F3-BE89-44C2-9773-9BD95BD6EDBE}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\class\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C47BA9F3-BE89-44C2-9773-9BD95BD6EDBE}|ConsoleApp1\\ConsoleApp1.csproj|E:\\Project-School\\ConsoleApp1\\consoleapp1\\class\\classtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C47BA9F3-BE89-44C2-9773-9BD95BD6EDBE}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\class\\classtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C47BA9F3-BE89-44C2-9773-9BD95BD6EDBE}|ConsoleApp1\\ConsoleApp1.csproj|e:\\project-school\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C47BA9F3-BE89-44C2-9773-9BD95BD6EDBE}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C47BA9F3-BE89-44C2-9773-9BD95BD6EDBE}|ConsoleApp1\\ConsoleApp1.csproj|E:\\Project-School\\ConsoleApp1\\consoleapp1\\class\\studentgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C47BA9F3-BE89-44C2-9773-9BD95BD6EDBE}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\class\\studentgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C47BA9F3-BE89-44C2-9773-9BD95BD6EDBE}|ConsoleApp1\\ConsoleApp1.csproj|E:\\Project-School\\ConsoleApp1\\consoleapp1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{C47BA9F3-BE89-44C2-9773-9BD95BD6EDBE}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C47BA9F3-BE89-44C2-9773-9BD95BD6EDBE}|ConsoleApp1\\ConsoleApp1.csproj|E:\\Project-School\\ConsoleApp1\\consoleapp1\\class\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C47BA9F3-BE89-44C2-9773-9BD95BD6EDBE}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\class\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C47BA9F3-BE89-44C2-9773-9BD95BD6EDBE}|ConsoleApp1\\ConsoleApp1.csproj|E:\\Project-School\\ConsoleApp1\\consoleapp1\\class\\classtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C47BA9F3-BE89-44C2-9773-9BD95BD6EDBE}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\class\\classtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C47BA9F3-BE89-44C2-9773-9BD95BD6EDBE}|ConsoleApp1\\ConsoleApp1.csproj|E:\\Project-School\\ConsoleApp1\\consoleapp1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C47BA9F3-BE89-44C2-9773-9BD95BD6EDBE}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C47BA9F3-BE89-44C2-9773-9BD95BD6EDBE}|ConsoleApp1\\ConsoleApp1.csproj|E:\\Project-School\\ConsoleApp1\\consoleapp1\\class\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,17 +50,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Teacher.cs",
               "DocumentMoniker": "E:\\Project-School\\ConsoleApp1\\ConsoleApp1\\class\\Teacher.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\class\\Teacher.cs",
               "ToolTip": "E:\\Project-School\\ConsoleApp1\\ConsoleApp1\\class\\Teacher.cs",
               "RelativeToolTip": "ConsoleApp1\\class\\Teacher.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAA0wB8AAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAIwB8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-08T05:22:06.055Z",
               "IsPinned": true,
@@ -68,33 +68,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Schedule.cs",
               "DocumentMoniker": "E:\\Project-School\\ConsoleApp1\\ConsoleApp1\\class\\Schedule.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\class\\Schedule.cs",
               "ToolTip": "E:\\Project-School\\ConsoleApp1\\ConsoleApp1\\class\\Schedule.cs",
               "RelativeToolTip": "ConsoleApp1\\class\\Schedule.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBcAAAAAAAAA",
+              "ViewState": "AQIAAG0AAAAAAAAAAAAAAHMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-08T05:21:48.319Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Project-School\\ConsoleApp1\\ConsoleApp1\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
               "ToolTip": "E:\\Project-School\\ConsoleApp1\\ConsoleApp1\\Program.cs",
               "RelativeToolTip": "ConsoleApp1\\Program.cs",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAQwC4AAAAcAAAA",
+              "ViewState": "AQIAACIAAAAAAAAAAAAuwD0AAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-08T05:16:04.447Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "ClassTime.cs",
               "DocumentMoniker": "E:\\Project-School\\ConsoleApp1\\ConsoleApp1\\class\\ClassTime.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\class\\ClassTime.cs",
@@ -102,12 +102,11 @@
               "RelativeToolTip": "ConsoleApp1\\class\\ClassTime.cs",
               "ViewState": "AQIAABQAAAAAAAAAAAAowCEAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T06:02:52.169Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-08T06:02:52.169Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "App.config",
               "DocumentMoniker": "E:\\Project-School\\ConsoleApp1\\ConsoleApp1\\App.config",
               "RelativeDocumentMoniker": "ConsoleApp1\\App.config",
@@ -115,12 +114,11 @@
               "RelativeToolTip": "ConsoleApp1\\App.config",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-05-08T05:22:03.623Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-08T05:22:03.623Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "StudentGroup.cs",
               "DocumentMoniker": "E:\\Project-School\\ConsoleApp1\\ConsoleApp1\\class\\StudentGroup.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\class\\StudentGroup.cs",
