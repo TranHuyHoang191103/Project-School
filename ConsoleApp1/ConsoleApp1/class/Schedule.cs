@@ -63,6 +63,7 @@ public class Schedule : IComparable<Schedule>
                         number++;
                 }
             }
+
         }
         return fitness = 1.0 / (number + 1);
     }
@@ -84,7 +85,7 @@ public class Schedule : IComparable<Schedule>
         Random rd = new Random(Guid.NewGuid().GetHashCode());
         int rd_room = rd.Next(0, rooms.Count);
         int rd_teacher = rd.Next(0, teachers.Count);
-        int rd_course = rd.Next(0, courses.Count);
+        
         return (new Class(teachers[rd_teacher], courses[studentGroups[i].getIdCoruse()], studentGroups[i], rooms[rd_room])); 
     }
     public Schedule mate(Schedule schedule)
@@ -96,8 +97,8 @@ public class Schedule : IComparable<Schedule>
             float p = rd.Next(0, 101) / 100;
             if (p < 0.45)
                 ret.classes.Add(classes[i]);
-            else if (p < 0.9)
-                ret.classes.Add(classes[i]);
+            else if (p < 0.90)
+                ret.classes.Add(schedule.classes[i]);
             else ret.classes.Add(mutation(i));
         }
         ret.calFitness();

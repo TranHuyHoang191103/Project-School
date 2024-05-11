@@ -3,44 +3,44 @@
   "WorkspaceRootPath": "E:\\Project-School\\ConsoleApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C47BA9F3-BE89-44C2-9773-9BD95BD6EDBE}|ConsoleApp1\\ConsoleApp1.csproj|E:\\Project-School\\ConsoleApp1\\consoleapp1\\class\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C47BA9F3-BE89-44C2-9773-9BD95BD6EDBE}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\class\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C47BA9F3-BE89-44C2-9773-9BD95BD6EDBE}|ConsoleApp1\\ConsoleApp1.csproj|E:\\Project-School\\ConsoleApp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C47BA9F3-BE89-44C2-9773-9BD95BD6EDBE}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C47BA9F3-BE89-44C2-9773-9BD95BD6EDBE}|ConsoleApp1\\ConsoleApp1.csproj|e:\\project-school\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C47BA9F3-BE89-44C2-9773-9BD95BD6EDBE}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C47BA9F3-BE89-44C2-9773-9BD95BD6EDBE}|ConsoleApp1\\ConsoleApp1.csproj|e:\\project-school\\consoleapp1\\consoleapp1\\class\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C47BA9F3-BE89-44C2-9773-9BD95BD6EDBE}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\class\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C47BA9F3-BE89-44C2-9773-9BD95BD6EDBE}|ConsoleApp1\\ConsoleApp1.csproj|E:\\Project-School\\ConsoleApp1\\consoleapp1\\class\\studentgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C47BA9F3-BE89-44C2-9773-9BD95BD6EDBE}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\class\\studentgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C47BA9F3-BE89-44C2-9773-9BD95BD6EDBE}|ConsoleApp1\\ConsoleApp1.csproj|E:\\Project-School\\ConsoleApp1\\consoleapp1\\class\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C47BA9F3-BE89-44C2-9773-9BD95BD6EDBE}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\class\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C47BA9F3-BE89-44C2-9773-9BD95BD6EDBE}|ConsoleApp1\\ConsoleApp1.csproj|E:\\Project-School\\ConsoleApp1\\consoleapp1\\class\\classtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C47BA9F3-BE89-44C2-9773-9BD95BD6EDBE}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\class\\classtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C47BA9F3-BE89-44C2-9773-9BD95BD6EDBE}|ConsoleApp1\\ConsoleApp1.csproj|E:\\Project-School\\ConsoleApp1\\consoleapp1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{C47BA9F3-BE89-44C2-9773-9BD95BD6EDBE}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C47BA9F3-BE89-44C2-9773-9BD95BD6EDBE}|ConsoleApp1\\ConsoleApp1.csproj|E:\\Project-School\\ConsoleApp1\\consoleapp1\\class\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C47BA9F3-BE89-44C2-9773-9BD95BD6EDBE}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\class\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C47BA9F3-BE89-44C2-9773-9BD95BD6EDBE}|ConsoleApp1\\ConsoleApp1.csproj|E:\\Project-School\\ConsoleApp1\\consoleapp1\\class\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C47BA9F3-BE89-44C2-9773-9BD95BD6EDBE}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\class\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C47BA9F3-BE89-44C2-9773-9BD95BD6EDBE}|ConsoleApp1\\ConsoleApp1.csproj|E:\\Project-School\\ConsoleApp1\\consoleapp1\\class\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C47BA9F3-BE89-44C2-9773-9BD95BD6EDBE}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\class\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{C47BA9F3-BE89-44C2-9773-9BD95BD6EDBE}|ConsoleApp1\\ConsoleApp1.csproj|E:\\Project-School\\ConsoleApp1\\consoleapp1\\class\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C47BA9F3-BE89-44C2-9773-9BD95BD6EDBE}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\class\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C47BA9F3-BE89-44C2-9773-9BD95BD6EDBE}|ConsoleApp1\\ConsoleApp1.csproj|E:\\Project-School\\ConsoleApp1\\consoleapp1\\class\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C47BA9F3-BE89-44C2-9773-9BD95BD6EDBE}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\class\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C47BA9F3-BE89-44C2-9773-9BD95BD6EDBE}|ConsoleApp1\\ConsoleApp1.csproj|E:\\Project-School\\ConsoleApp1\\consoleapp1\\class\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C47BA9F3-BE89-44C2-9773-9BD95BD6EDBE}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\class\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C47BA9F3-BE89-44C2-9773-9BD95BD6EDBE}|ConsoleApp1\\ConsoleApp1.csproj|E:\\Project-School\\ConsoleApp1\\consoleapp1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C47BA9F3-BE89-44C2-9773-9BD95BD6EDBE}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,11 +50,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Teacher.cs",
               "DocumentMoniker": "E:\\Project-School\\ConsoleApp1\\ConsoleApp1\\class\\Teacher.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\class\\Teacher.cs",
@@ -63,58 +63,33 @@
               "ViewState": "AQIAAAMAAAAAAAAAAAAIwB8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-08T05:22:06.055Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Schedule.cs",
               "DocumentMoniker": "E:\\Project-School\\ConsoleApp1\\ConsoleApp1\\class\\Schedule.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\class\\Schedule.cs",
               "ToolTip": "E:\\Project-School\\ConsoleApp1\\ConsoleApp1\\class\\Schedule.cs",
               "RelativeToolTip": "ConsoleApp1\\class\\Schedule.cs",
-              "ViewState": "AQIAAG0AAAAAAAAAAAAAAHMAAAAAAAAA",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAAAGMAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-08T05:21:48.319Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Project-School\\ConsoleApp1\\ConsoleApp1\\Program.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
-              "ToolTip": "E:\\Project-School\\ConsoleApp1\\ConsoleApp1\\Program.cs",
-              "RelativeToolTip": "ConsoleApp1\\Program.cs",
-              "ViewState": "AQIAACIAAAAAAAAAAAAuwD0AAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T05:16:04.447Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "ClassTime.cs",
               "DocumentMoniker": "E:\\Project-School\\ConsoleApp1\\ConsoleApp1\\class\\ClassTime.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\class\\ClassTime.cs",
               "ToolTip": "E:\\Project-School\\ConsoleApp1\\ConsoleApp1\\class\\ClassTime.cs",
               "RelativeToolTip": "ConsoleApp1\\class\\ClassTime.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAowCEAAAAgAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwA8AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T06:02:52.169Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "App.config",
-              "DocumentMoniker": "E:\\Project-School\\ConsoleApp1\\ConsoleApp1\\App.config",
-              "RelativeDocumentMoniker": "ConsoleApp1\\App.config",
-              "ToolTip": "E:\\Project-School\\ConsoleApp1\\ConsoleApp1\\App.config",
-              "RelativeToolTip": "ConsoleApp1\\App.config",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-05-08T05:22:03.623Z"
+              "WhenOpened": "2024-05-08T06:02:52.169Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -124,38 +99,51 @@
               "RelativeDocumentMoniker": "ConsoleApp1\\class\\StudentGroup.cs",
               "ToolTip": "E:\\Project-School\\ConsoleApp1\\ConsoleApp1\\class\\StudentGroup.cs",
               "RelativeToolTip": "ConsoleApp1\\class\\StudentGroup.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAZAAAA",
+              "ViewState": "AQIAAAIAAAAAAAAAAAA0wBIAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-08T05:21:59.15Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "Class.cs",
               "DocumentMoniker": "E:\\Project-School\\ConsoleApp1\\ConsoleApp1\\class\\Class.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\class\\Class.cs",
               "ToolTip": "E:\\Project-School\\ConsoleApp1\\ConsoleApp1\\class\\Class.cs",
               "RelativeToolTip": "ConsoleApp1\\class\\Class.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAQwBgAAAA7AAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAkAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-08T05:59:58.085Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Project-School\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "E:\\Project-School\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAQwEwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T05:16:04.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Data.cs",
               "DocumentMoniker": "E:\\Project-School\\ConsoleApp1\\ConsoleApp1\\class\\Data.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\class\\Data.cs",
               "ToolTip": "E:\\Project-School\\ConsoleApp1\\ConsoleApp1\\class\\Data.cs",
               "RelativeToolTip": "ConsoleApp1\\class\\Data.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAiwB0AAAAZAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBwAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-08T05:17:13.874Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "Room.cs",
               "DocumentMoniker": "E:\\Project-School\\ConsoleApp1\\ConsoleApp1\\class\\Room.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\class\\Room.cs",
@@ -167,15 +155,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "Course.cs",
               "DocumentMoniker": "E:\\Project-School\\ConsoleApp1\\ConsoleApp1\\class\\Course.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\class\\Course.cs",
               "ToolTip": "E:\\Project-School\\ConsoleApp1\\ConsoleApp1\\class\\Course.cs",
               "RelativeToolTip": "ConsoleApp1\\class\\Course.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-08T05:17:09.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.config",
+              "DocumentMoniker": "E:\\Project-School\\ConsoleApp1\\ConsoleApp1\\App.config",
+              "RelativeDocumentMoniker": "ConsoleApp1\\App.config",
+              "ToolTip": "E:\\Project-School\\ConsoleApp1\\ConsoleApp1\\App.config",
+              "RelativeToolTip": "ConsoleApp1\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-08T05:22:03.623Z"
             }
           ]
         }

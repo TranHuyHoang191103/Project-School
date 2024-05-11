@@ -29,6 +29,8 @@ namespace ConsoleApp1
             { "112", new Course("112", "thuc tap huong doi tuong", true, 4) },
             { "223", new Course("223", "co so du lieu", false, 4) },
              { "225", new Course("225", "co so du lieu phan tan", false, 4) },
+             { "227", new Course("227", "lap trinh .Net", false, 4) },
+             { "229", new Course("229", "cong nghe java", false, 4) },
              { "226", new Course("226", "cong nghe phan mem", false, 2) }
     // Add more courses if needed
         };
@@ -37,6 +39,7 @@ namespace ConsoleApp1
             var teachers = new List<Teacher>
         {
             new Teacher("123", "Hoang", new List<Course> { courses["111"], courses["223"] }),
+            new Teacher("125", "Hoang", new List<Course> { courses["227"], courses["112"], courses["229"] }),
             new Teacher("125", "Hoang", new List<Course> { courses["111"], courses["223"], courses["222"] }),
             new Teacher("234", "Nam", new List<Course> { courses["112"], courses["222"], courses["225"], courses["226"] }),
             new Teacher("235", "Nam Uq", new List<Course> { courses["111"], courses["222"], courses["112"], courses["223"] }),
@@ -61,6 +64,13 @@ namespace ConsoleApp1
             new StudentGroup("hs14", "223", "dhti32", 32),
             new StudentGroup("hs15", "111", "dhti32", 32),
             new StudentGroup("hs16", "112", "dhti32", 32),
+            new StudentGroup("hs17", "227", "dhti32", 32),
+            new StudentGroup("hs18", "227", "dhti32", 32),
+            new StudentGroup("hs19", "227", "dhti32", 32),
+            new StudentGroup("hs20", "229", "dhti32", 32),
+            new StudentGroup("hs21", "229", "dhti32", 32),
+            new StudentGroup("hs22", "226", "dhti32", 32),
+            new StudentGroup("hs23", "226", "dhti32", 32),
             
             // Add more student groups if needed
         };
