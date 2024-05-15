@@ -1,3 +1,4 @@
+
 use ScheduleManagement
 go
 
@@ -25,7 +26,7 @@ create table PhongHoc(
 	MaKhoa nchar(20),
 	SoCho int,
 	LoaiPhong int,
-	TinhTrang int
+	TinhTrang int default 1
 
 	constraint fk_makhoa foreign key (MaKhoa) references Khoa(MaKhoa)
 );
@@ -36,7 +37,8 @@ create table GiangVien(
 	MaGiangVien nchar(20) not null primary key,
 	MaKhoa nchar(20),
 	TenGiangVien nvarchar(50),
-	BangCap nvarchar(50)
+	BangCap nvarchar(50),
+	TinhTrang int default 1
 
 	constraint fk_makhoa_GiangVien foreign key (MaKhoa) references Khoa(MaKhoa)
 );
@@ -80,7 +82,13 @@ create table HocPhan (
 );
 
 select * from HocPhan
-
+create table GiangDay(
+	MaGiangVien nchar(20) not null,
+	MaHocPhan nchar(20) not null
+	constraint fk_maGiangVien_GiangDay foreign key (MaGiangVien) references GiangVien(MaGiangVien),
+	constraint fk_MaHocPhan_GiangDay foreign key (MaHocPhan) references HocPhan(MaHocPhan)
+)
+select * from GiangDay
 create table LopHocPhan(
 	MaLopHocPhan nchar(20) not null primary key,
 	MaHocPhan nchar(20),
