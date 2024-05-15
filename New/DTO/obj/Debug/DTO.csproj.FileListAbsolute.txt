@@ -1,0 +1,9 @@
+D:\WORKSPACE\C#\Source\C#-Winform\ScheduleManagement\DTO\bin\Debug\DTO.pdb
+D:\WORKSPACE\C#\Source\C#-Winform\ScheduleManagement\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\WORKSPACE\C#\Source\C#-Winform\ScheduleManagement\DTO\obj\Debug\DTO.Properties.Resources.resources
+D:\WORKSPACE\C#\Source\C#-Winform\ScheduleManagement\DTO\obj\Debug\DTO.csproj.GenerateResource.cache
+D:\WORKSPACE\C#\Source\C#-Winform\ScheduleManagement\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\WORKSPACE\C#\Source\C#-Winform\ScheduleManagement\DTO\obj\Debug\DTO.pdb
+D:\WORKSPACE\C#\Source\C#-Winform\ScheduleManagement\DTO\bin\Debug\DTO.dll.config
+D:\WORKSPACE\C#\Source\C#-Winform\ScheduleManagement\DTO\bin\Debug\DTO.dll
+D:\WORKSPACE\C#\Source\C#-Winform\ScheduleManagement\DTO\obj\Debug\DTO.dll

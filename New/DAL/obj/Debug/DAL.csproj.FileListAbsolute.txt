@@ -1,0 +1,9 @@
+D:\WORKSPACE\C#\Source\C#-Winform\ScheduleManagement\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\WORKSPACE\C#\Source\C#-Winform\ScheduleManagement\DAL\obj\Debug\DAL.Properties.Resources.resources
+D:\WORKSPACE\C#\Source\C#-Winform\ScheduleManagement\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+D:\WORKSPACE\C#\Source\C#-Winform\ScheduleManagement\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\WORKSPACE\C#\Source\C#-Winform\ScheduleManagement\DAL\bin\Debug\DAL.pdb
+D:\WORKSPACE\C#\Source\C#-Winform\ScheduleManagement\DAL\obj\Debug\DAL.pdb
+D:\WORKSPACE\C#\Source\C#-Winform\ScheduleManagement\DAL\bin\Debug\DAL.dll.config
+D:\WORKSPACE\C#\Source\C#-Winform\ScheduleManagement\DAL\bin\Debug\DAL.dll
+D:\WORKSPACE\C#\Source\C#-Winform\ScheduleManagement\DAL\obj\Debug\DAL.dll
