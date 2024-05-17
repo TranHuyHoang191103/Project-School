@@ -1,0 +1,4 @@
+E:\Project-School\version-3\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+E:\Project-School\version-3\BUS\obj\Debug\BUS.Properties.Resources.resources
+E:\Project-School\version-3\BUS\obj\Debug\BUS.csproj.GenerateResource.cache
+E:\Project-School\version-3\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache

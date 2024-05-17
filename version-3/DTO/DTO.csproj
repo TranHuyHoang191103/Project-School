@@ -58,6 +58,7 @@
     <Compile Include="Room.cs" />
     <Compile Include="Schedule.cs" />
     <Compile Include="StudentGroup.cs" />
+    <Compile Include="Student_DTO.cs" />
     <Compile Include="Teacher.cs" />
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
