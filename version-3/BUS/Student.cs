@@ -14,7 +14,7 @@ namespace BUS
     string tmp = "";
     if (!(str[0] == cv[cv.Length - 2] || (str[1] != cv[cv.Length - 1]) && str.Length != 0)|| str.Length==0)
     {
-        tmp = cv + maNganh + "00001";
+        tmp = cv[cv.Length-2]+cv[cv.Length-1] + maNganh + "00001";
     }
     else
     {
