@@ -16,7 +16,7 @@ namespace BUS
             int t1 = Convert.ToInt32(str);
             t1++;
             string tmp = t1.ToString();
-            if (!(str[0] == cv[cv.Length - 2] || (str[1] != cv[cv.Length - 1]) && str.Length != 0))
+            if (!(str[0] == cv[cv.Length - 2] || (str[1] != cv[cv.Length - 1]) && str.Length != 0) || str.Length == 0)
             {
                 tmp = cv + t.getNganh() + "00001";
             }
