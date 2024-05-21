@@ -51,9 +51,11 @@
   <ItemGroup>
     <Compile Include="Course_DAO.cs" />
     <Compile Include="DataAccess.cs" />
+    <Compile Include="Major_DAO.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Room_DAO.cs" />
     <Compile Include="StudentGroup_DAO.cs" />
+    <Compile Include="Student_DAO.cs" />
     <Compile Include="Teacher_DAO.cs" />
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

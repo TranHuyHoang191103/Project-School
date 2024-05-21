@@ -58,7 +58,6 @@ namespace BUS
 
                 population = newGeneration;
             }
-
         }
     }
 }

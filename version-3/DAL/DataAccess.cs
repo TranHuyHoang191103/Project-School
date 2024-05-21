@@ -58,5 +58,17 @@ namespace DAL
             }
             return list;
         }
+        public static string getObj(string  sql)
+        {
+            SqlConnection con = SqlConnectionData.connect();
+            con.Open();
+            SqlCommand cmd=new SqlCommand(sql, con);
+            object obj=cmd.ExecuteScalar();
+            con.Close();
+            if (obj == null)
+                return "";
+            return obj.ToString();
+
+        }
     }
 }

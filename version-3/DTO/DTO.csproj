@@ -53,6 +53,7 @@
     <Compile Include="ClassTime.cs" />
     <Compile Include="Course.cs" />
     <Compile Include="Data.cs" />
+    <Compile Include="Major.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Room.cs" />

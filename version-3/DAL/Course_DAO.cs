@@ -24,5 +24,6 @@ namespace DAL
             }
             return list;
         }
+        
     }
 }

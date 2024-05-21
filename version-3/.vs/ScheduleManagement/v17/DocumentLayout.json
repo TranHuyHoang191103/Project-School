@@ -3,35 +3,43 @@
   "WorkspaceRootPath": "E:\\Project-School\\version-3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A41C4AEC-2BEF-411A-B94B-5652375F58DC}|DTO\\DTO.csproj|e:\\project-school\\version-3\\dto\\student_dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A41C4AEC-2BEF-411A-B94B-5652375F58DC}|DTO\\DTO.csproj|solutionrelative:dto\\student_dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{429BE5EC-9B32-4F50-B38F-BF880E8E5014}|BUS\\BUS.csproj|E:\\Project-School\\version-3\\bus\\schedule_bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{429BE5EC-9B32-4F50-B38F-BF880E8E5014}|BUS\\BUS.csproj|solutionrelative:bus\\schedule_bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{429BE5EC-9B32-4F50-B38F-BF880E8E5014}|BUS\\BUS.csproj|e:\\project-school\\version-3\\bus\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{429BE5EC-9B32-4F50-B38F-BF880E8E5014}|BUS\\BUS.csproj|E:\\Project-School\\version-3\\bus\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{429BE5EC-9B32-4F50-B38F-BF880E8E5014}|BUS\\BUS.csproj|solutionrelative:bus\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{429BE5EC-9B32-4F50-B38F-BF880E8E5014}|BUS\\BUS.csproj|E:\\Project-School\\version-3\\bus\\schedule_bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{429BE5EC-9B32-4F50-B38F-BF880E8E5014}|BUS\\BUS.csproj|solutionrelative:bus\\schedule_bus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A41C4AEC-2BEF-411A-B94B-5652375F58DC}|DTO\\DTO.csproj|E:\\Project-School\\version-3\\dto\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A41C4AEC-2BEF-411A-B94B-5652375F58DC}|DTO\\DTO.csproj|solutionrelative:dto\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E71641-98EF-424D-BDD4-E2D4B67A5009}|DAL\\DAL.csproj|e:\\project-school\\version-3\\dal\\major_dao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E71641-98EF-424D-BDD4-E2D4B67A5009}|DAL\\DAL.csproj|solutionrelative:dal\\major_dao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A41C4AEC-2BEF-411A-B94B-5652375F58DC}|DTO\\DTO.csproj|E:\\Project-School\\version-3\\dto\\major.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A41C4AEC-2BEF-411A-B94B-5652375F58DC}|DTO\\DTO.csproj|solutionrelative:dto\\major.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B8E71641-98EF-424D-BDD4-E2D4B67A5009}|DAL\\DAL.csproj|E:\\Project-School\\version-3\\dal\\course_dao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B8E71641-98EF-424D-BDD4-E2D4B67A5009}|DAL\\DAL.csproj|solutionrelative:dal\\course_dao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8E71641-98EF-424D-BDD4-E2D4B67A5009}|DAL\\DAL.csproj|E:\\Project-School\\version-3\\dal\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8E71641-98EF-424D-BDD4-E2D4B67A5009}|DAL\\DAL.csproj|solutionrelative:dal\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A41C4AEC-2BEF-411A-B94B-5652375F58DC}|DTO\\DTO.csproj|E:\\Project-School\\version-3\\dto\\student_dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A41C4AEC-2BEF-411A-B94B-5652375F58DC}|DTO\\DTO.csproj|solutionrelative:dto\\student_dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8E71641-98EF-424D-BDD4-E2D4B67A5009}|DAL\\DAL.csproj|e:\\project-school\\version-3\\dal\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{B8E71641-98EF-424D-BDD4-E2D4B67A5009}|DAL\\DAL.csproj|solutionrelative:dal\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{B8E71641-98EF-424D-BDD4-E2D4B67A5009}|DAL\\DAL.csproj|E:\\Project-School\\version-3\\dal\\student_dao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E71641-98EF-424D-BDD4-E2D4B67A5009}|DAL\\DAL.csproj|solutionrelative:dal\\student_dao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B8E71641-98EF-424D-BDD4-E2D4B67A5009}|DAL\\DAL.csproj|E:\\Project-School\\version-3\\dal\\room_dao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B8E71641-98EF-424D-BDD4-E2D4B67A5009}|DAL\\DAL.csproj|solutionrelative:dal\\room_dao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8E71641-98EF-424D-BDD4-E2D4B67A5009}|DAL\\DAL.csproj|e:\\project-school\\version-3\\dal\\studentgroup_dao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B8E71641-98EF-424D-BDD4-E2D4B67A5009}|DAL\\DAL.csproj|E:\\Project-School\\version-3\\dal\\studentgroup_dao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B8E71641-98EF-424D-BDD4-E2D4B67A5009}|DAL\\DAL.csproj|solutionrelative:dal\\studentgroup_dao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -39,7 +47,15 @@
       "RelativeMoniker": "D:0:0:{B8E71641-98EF-424D-BDD4-E2D4B67A5009}|DAL\\DAL.csproj|solutionrelative:dal\\teacher_dao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61015A9B-9232-4BCD-A340-0588D73D27E0}|GUI\\GUI.csproj|e:\\project-school\\version-3\\gui\\lophocphan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B8E71641-98EF-424D-BDD4-E2D4B67A5009}|DAL\\DAL.csproj|E:\\Project-School\\version-3\\dal\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8E71641-98EF-424D-BDD4-E2D4B67A5009}|DAL\\DAL.csproj|solutionrelative:dal\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E71641-98EF-424D-BDD4-E2D4B67A5009}|DAL\\DAL.csproj|E:\\Project-School\\version-3\\dal\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B8E71641-98EF-424D-BDD4-E2D4B67A5009}|DAL\\DAL.csproj|solutionrelative:dal\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61015A9B-9232-4BCD-A340-0588D73D27E0}|GUI\\GUI.csproj|E:\\Project-School\\version-3\\gui\\lophocphan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{61015A9B-9232-4BCD-A340-0588D73D27E0}|GUI\\GUI.csproj|solutionrelative:gui\\lophocphan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -51,19 +67,19 @@
       "RelativeMoniker": "D:0:0:{61015A9B-9232-4BCD-A340-0588D73D27E0}|GUI\\GUI.csproj|solutionrelative:gui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61015A9B-9232-4BCD-A340-0588D73D27E0}|GUI\\GUI.csproj|e:\\project-school\\version-3\\gui\\hocphantheonganh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{61015A9B-9232-4BCD-A340-0588D73D27E0}|GUI\\GUI.csproj|E:\\Project-School\\version-3\\gui\\hocphantheonganh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{61015A9B-9232-4BCD-A340-0588D73D27E0}|GUI\\GUI.csproj|solutionrelative:gui\\hocphantheonganh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61015A9B-9232-4BCD-A340-0588D73D27E0}|GUI\\GUI.csproj|e:\\project-school\\version-3\\gui\\khoa_nganhhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{61015A9B-9232-4BCD-A340-0588D73D27E0}|GUI\\GUI.csproj|E:\\Project-School\\version-3\\gui\\khoa_nganhhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{61015A9B-9232-4BCD-A340-0588D73D27E0}|GUI\\GUI.csproj|solutionrelative:gui\\khoa_nganhhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61015A9B-9232-4BCD-A340-0588D73D27E0}|GUI\\GUI.csproj|e:\\project-school\\version-3\\gui\\lichhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{61015A9B-9232-4BCD-A340-0588D73D27E0}|GUI\\GUI.csproj|E:\\Project-School\\version-3\\gui\\lichhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{61015A9B-9232-4BCD-A340-0588D73D27E0}|GUI\\GUI.csproj|solutionrelative:gui\\lichhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61015A9B-9232-4BCD-A340-0588D73D27E0}|GUI\\GUI.csproj|e:\\project-school\\version-3\\gui\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{61015A9B-9232-4BCD-A340-0588D73D27E0}|GUI\\GUI.csproj|E:\\Project-School\\version-3\\gui\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{61015A9B-9232-4BCD-A340-0588D73D27E0}|GUI\\GUI.csproj|solutionrelative:gui\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -87,10 +103,6 @@
       "RelativeMoniker": "D:0:0:{A41C4AEC-2BEF-411A-B94B-5652375F58DC}|DTO\\DTO.csproj|solutionrelative:dto\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A41C4AEC-2BEF-411A-B94B-5652375F58DC}|DTO\\DTO.csproj|E:\\Project-School\\version-3\\dto\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A41C4AEC-2BEF-411A-B94B-5652375F58DC}|DTO\\DTO.csproj|solutionrelative:dto\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A41C4AEC-2BEF-411A-B94B-5652375F58DC}|DTO\\DTO.csproj|E:\\Project-School\\version-3\\dto\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A41C4AEC-2BEF-411A-B94B-5652375F58DC}|DTO\\DTO.csproj|solutionrelative:dto\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -110,94 +122,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Student_DTO.cs",
-              "DocumentMoniker": "E:\\Project-School\\version-3\\DTO\\Student_DTO.cs",
-              "RelativeDocumentMoniker": "DTO\\Student_DTO.cs",
-              "ToolTip": "E:\\Project-School\\version-3\\DTO\\Student_DTO.cs",
-              "RelativeToolTip": "DTO\\Student_DTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "DocumentIndex": 3,
+              "Title": "Major_DAO.cs",
+              "DocumentMoniker": "E:\\Project-School\\version-3\\DAL\\Major_DAO.cs",
+              "RelativeDocumentMoniker": "DAL\\Major_DAO.cs",
+              "ToolTip": "E:\\Project-School\\version-3\\DAL\\Major_DAO.cs",
+              "RelativeToolTip": "DAL\\Major_DAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T17:28:16.525Z",
+              "WhenOpened": "2024-05-20T15:54:53.845Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "App.config",
-              "DocumentMoniker": "E:\\Project-School\\version-3\\DAL\\App.config",
-              "RelativeDocumentMoniker": "DAL\\App.config",
-              "ToolTip": "E:\\Project-School\\version-3\\DAL\\App.config",
-              "RelativeToolTip": "DAL\\App.config",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-05-17T17:20:19.971Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "LopHocPhan.cs",
-              "DocumentMoniker": "E:\\Project-School\\version-3\\GUI\\LopHocPhan.cs",
-              "RelativeDocumentMoniker": "GUI\\LopHocPhan.cs",
-              "ToolTip": "E:\\Project-School\\version-3\\GUI\\LopHocPhan.cs",
-              "RelativeToolTip": "GUI\\LopHocPhan.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T17:13:51.767Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "HocPhanTheoNganh.cs [Design]",
-              "DocumentMoniker": "E:\\Project-School\\version-3\\GUI\\HocPhanTheoNganh.cs",
-              "RelativeDocumentMoniker": "GUI\\HocPhanTheoNganh.cs",
-              "ToolTip": "E:\\Project-School\\version-3\\GUI\\HocPhanTheoNganh.cs [Design]",
-              "RelativeToolTip": "GUI\\HocPhanTheoNganh.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T17:13:34.896Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Khoa_NganhHoc.cs [Design]",
-              "DocumentMoniker": "E:\\Project-School\\version-3\\GUI\\Khoa_NganhHoc.cs",
-              "RelativeDocumentMoniker": "GUI\\Khoa_NganhHoc.cs",
-              "ToolTip": "E:\\Project-School\\version-3\\GUI\\Khoa_NganhHoc.cs [Design]",
-              "RelativeToolTip": "GUI\\Khoa_NganhHoc.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T17:13:34.225Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "LichHoc.cs [Design]",
-              "DocumentMoniker": "E:\\Project-School\\version-3\\GUI\\LichHoc.cs",
-              "RelativeDocumentMoniker": "GUI\\LichHoc.cs",
-              "ToolTip": "E:\\Project-School\\version-3\\GUI\\LichHoc.cs [Design]",
-              "RelativeToolTip": "GUI\\LichHoc.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T17:13:33.594Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "SinhVien.cs [Design]",
-              "DocumentMoniker": "E:\\Project-School\\version-3\\GUI\\SinhVien.cs",
-              "RelativeDocumentMoniker": "GUI\\SinhVien.cs",
-              "ToolTip": "E:\\Project-School\\version-3\\GUI\\SinhVien.cs [Design]",
-              "RelativeToolTip": "GUI\\SinhVien.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T17:13:21.147Z",
-              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
@@ -207,27 +145,14 @@
               "RelativeDocumentMoniker": "BUS\\Student.cs",
               "ToolTip": "E:\\Project-School\\version-3\\BUS\\Student.cs",
               "RelativeToolTip": "BUS\\Student.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-17T17:10:26.203Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Schedule_BUS.cs",
-              "DocumentMoniker": "E:\\Project-School\\version-3\\BUS\\Schedule_BUS.cs",
-              "RelativeDocumentMoniker": "BUS\\Schedule_BUS.cs",
-              "ToolTip": "E:\\Project-School\\version-3\\BUS\\Schedule_BUS.cs",
-              "RelativeToolTip": "BUS\\Schedule_BUS.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAQwDAAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T07:57:41.337Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "StudentGroup_DAO.cs",
               "DocumentMoniker": "E:\\Project-School\\version-3\\DAL\\StudentGroup_DAO.cs",
               "RelativeDocumentMoniker": "DAL\\StudentGroup_DAO.cs",
@@ -235,38 +160,11 @@
               "RelativeToolTip": "DAL\\StudentGroup_DAO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T17:37:18.405Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Course_DAO.cs",
-              "DocumentMoniker": "E:\\Project-School\\version-3\\DAL\\Course_DAO.cs",
-              "RelativeDocumentMoniker": "DAL\\Course_DAO.cs",
-              "ToolTip": "E:\\Project-School\\version-3\\DAL\\Course_DAO.cs",
-              "RelativeToolTip": "DAL\\Course_DAO.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8AAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T17:02:53.413Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-16T17:37:18.405Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Teacher_DAO.cs",
-              "DocumentMoniker": "E:\\Project-School\\version-3\\DAL\\Teacher_DAO.cs",
-              "RelativeDocumentMoniker": "DAL\\Teacher_DAO.cs",
-              "ToolTip": "E:\\Project-School\\version-3\\DAL\\Teacher_DAO.cs",
-              "RelativeToolTip": "DAL\\Teacher_DAO.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T16:45:47.47Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "Room_DAO.cs",
               "DocumentMoniker": "E:\\Project-School\\version-3\\DAL\\Room_DAO.cs",
               "RelativeDocumentMoniker": "DAL\\Room_DAO.cs",
@@ -274,25 +172,177 @@
               "RelativeToolTip": "DAL\\Room_DAO.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAABIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T09:56:57.248Z",
+              "WhenOpened": "2024-05-16T09:56:57.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Schedule_BUS.cs",
+              "DocumentMoniker": "E:\\Project-School\\version-3\\BUS\\Schedule_BUS.cs",
+              "RelativeDocumentMoniker": "BUS\\Schedule_BUS.cs",
+              "ToolTip": "E:\\Project-School\\version-3\\BUS\\Schedule_BUS.cs",
+              "RelativeToolTip": "BUS\\Schedule_BUS.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAADsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T07:57:41.337Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Course.cs",
+              "DocumentMoniker": "E:\\Project-School\\version-3\\DTO\\Course.cs",
+              "RelativeDocumentMoniker": "DTO\\Course.cs",
+              "ToolTip": "E:\\Project-School\\version-3\\DTO\\Course.cs",
+              "RelativeToolTip": "DTO\\Course.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T09:10:32.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Teacher_DAO.cs",
+              "DocumentMoniker": "E:\\Project-School\\version-3\\DAL\\Teacher_DAO.cs",
+              "RelativeDocumentMoniker": "DAL\\Teacher_DAO.cs",
+              "ToolTip": "E:\\Project-School\\version-3\\DAL\\Teacher_DAO.cs",
+              "RelativeToolTip": "DAL\\Teacher_DAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T16:45:47.47Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "Major.cs",
+              "DocumentMoniker": "E:\\Project-School\\version-3\\DTO\\Major.cs",
+              "RelativeDocumentMoniker": "DTO\\Major.cs",
+              "ToolTip": "E:\\Project-School\\version-3\\DTO\\Major.cs",
+              "RelativeToolTip": "DTO\\Major.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAzwBwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T10:57:05.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Course_DAO.cs",
+              "DocumentMoniker": "E:\\Project-School\\version-3\\DAL\\Course_DAO.cs",
+              "RelativeDocumentMoniker": "DAL\\Course_DAO.cs",
+              "ToolTip": "E:\\Project-School\\version-3\\DAL\\Course_DAO.cs",
+              "RelativeToolTip": "DAL\\Course_DAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T17:02:53.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student_DTO.cs",
+              "DocumentMoniker": "E:\\Project-School\\version-3\\DTO\\Student_DTO.cs",
+              "RelativeDocumentMoniker": "DTO\\Student_DTO.cs",
+              "ToolTip": "E:\\Project-School\\version-3\\DTO\\Student_DTO.cs",
+              "RelativeToolTip": "DTO\\Student_DTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T17:28:16.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Student_DAO.cs",
+              "DocumentMoniker": "E:\\Project-School\\version-3\\DAL\\Student_DAO.cs",
+              "RelativeDocumentMoniker": "DAL\\Student_DAO.cs",
+              "ToolTip": "E:\\Project-School\\version-3\\DAL\\Student_DAO.cs",
+              "RelativeToolTip": "DAL\\Student_DAO.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAQwBAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T16:32:12.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "DataAccess.cs",
               "DocumentMoniker": "E:\\Project-School\\version-3\\DAL\\DataAccess.cs",
               "RelativeDocumentMoniker": "DAL\\DataAccess.cs",
               "ToolTip": "E:\\Project-School\\version-3\\DAL\\DataAccess.cs",
               "RelativeToolTip": "DAL\\DataAccess.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAACEAAAAYAAAA",
+              "ViewState": "AQIAADQAAAAAAAAAAAAswDwAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T09:26:47.178Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-16T09:26:47.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HocPhanTheoNganh.cs [Design]",
+              "DocumentMoniker": "E:\\Project-School\\version-3\\GUI\\HocPhanTheoNganh.cs",
+              "RelativeDocumentMoniker": "GUI\\HocPhanTheoNganh.cs",
+              "ToolTip": "E:\\Project-School\\version-3\\GUI\\HocPhanTheoNganh.cs [Design]",
+              "RelativeToolTip": "GUI\\HocPhanTheoNganh.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T17:13:34.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LopHocPhan.cs",
+              "DocumentMoniker": "E:\\Project-School\\version-3\\GUI\\LopHocPhan.cs",
+              "RelativeDocumentMoniker": "GUI\\LopHocPhan.cs",
+              "ToolTip": "E:\\Project-School\\version-3\\GUI\\LopHocPhan.cs",
+              "RelativeToolTip": "GUI\\LopHocPhan.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T17:13:51.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.config",
+              "DocumentMoniker": "E:\\Project-School\\version-3\\DAL\\App.config",
+              "RelativeDocumentMoniker": "DAL\\App.config",
+              "ToolTip": "E:\\Project-School\\version-3\\DAL\\App.config",
+              "RelativeToolTip": "DAL\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-17T17:20:19.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Khoa_NganhHoc.cs [Design]",
+              "DocumentMoniker": "E:\\Project-School\\version-3\\GUI\\Khoa_NganhHoc.cs",
+              "RelativeDocumentMoniker": "GUI\\Khoa_NganhHoc.cs",
+              "ToolTip": "E:\\Project-School\\version-3\\GUI\\Khoa_NganhHoc.cs [Design]",
+              "RelativeToolTip": "GUI\\Khoa_NganhHoc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T17:13:34.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LichHoc.cs [Design]",
+              "DocumentMoniker": "E:\\Project-School\\version-3\\GUI\\LichHoc.cs",
+              "RelativeDocumentMoniker": "GUI\\LichHoc.cs",
+              "ToolTip": "E:\\Project-School\\version-3\\GUI\\LichHoc.cs [Design]",
+              "RelativeToolTip": "GUI\\LichHoc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T17:13:33.594Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
+              "Title": "SinhVien.cs [Design]",
+              "DocumentMoniker": "E:\\Project-School\\version-3\\GUI\\SinhVien.cs",
+              "RelativeDocumentMoniker": "GUI\\SinhVien.cs",
+              "ToolTip": "E:\\Project-School\\version-3\\GUI\\SinhVien.cs [Design]",
+              "RelativeToolTip": "GUI\\SinhVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T17:13:21.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
               "Title": "Schedule.cs",
               "DocumentMoniker": "E:\\Project-School\\version-3\\DTO\\Schedule.cs",
               "RelativeDocumentMoniker": "DTO\\Schedule.cs",
@@ -300,12 +350,11 @@
               "RelativeToolTip": "DTO\\Schedule.cs",
               "ViewState": "AQIAABMAAAAAAAAAAAAQwBkAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T09:17:24.27Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-16T09:17:24.27Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 25,
               "Title": "Teacher.cs",
               "DocumentMoniker": "E:\\Project-School\\version-3\\DTO\\Teacher.cs",
               "RelativeDocumentMoniker": "DTO\\Teacher.cs",
@@ -313,12 +362,11 @@
               "RelativeToolTip": "DTO\\Teacher.cs",
               "ViewState": "AQIAAAQAAAAAAAAAAAAIwAwAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T09:13:46.313Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-16T09:13:46.313Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 20,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Project-School\\version-3\\DTO\\Program.cs",
               "RelativeDocumentMoniker": "DTO\\Program.cs",
@@ -326,12 +374,11 @@
               "RelativeToolTip": "DTO\\Program.cs",
               "ViewState": "AQIAAEgAAAAAAAAAAAAAAFEAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T09:12:52.16Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-16T09:12:52.16Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 22,
               "Title": "StudentGroup.cs",
               "DocumentMoniker": "E:\\Project-School\\version-3\\DTO\\StudentGroup.cs",
               "RelativeDocumentMoniker": "DTO\\StudentGroup.cs",
@@ -339,12 +386,11 @@
               "RelativeToolTip": "DTO\\StudentGroup.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T09:12:44.001Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-16T09:12:44.001Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 24,
               "Title": "Room.cs",
               "DocumentMoniker": "E:\\Project-School\\version-3\\DTO\\Room.cs",
               "RelativeDocumentMoniker": "DTO\\Room.cs",
@@ -352,12 +398,11 @@
               "RelativeToolTip": "DTO\\Room.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T09:11:49.545Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-16T09:11:49.545Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 21,
               "Title": "Data.cs",
               "DocumentMoniker": "E:\\Project-School\\version-3\\DTO\\Data.cs",
               "RelativeDocumentMoniker": "DTO\\Data.cs",
@@ -365,25 +410,11 @@
               "RelativeToolTip": "DTO\\Data.cs",
               "ViewState": "AQIAABgAAAAAAAAAAAAYwAoAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T09:10:45.003Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-16T09:10:45.003Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Course.cs",
-              "DocumentMoniker": "E:\\Project-School\\version-3\\DTO\\Course.cs",
-              "RelativeDocumentMoniker": "DTO\\Course.cs",
-              "ToolTip": "E:\\Project-School\\version-3\\DTO\\Course.cs",
-              "RelativeToolTip": "DTO\\Course.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAxwBoAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T09:10:32.699Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 27,
               "Title": "ClassTime.cs",
               "DocumentMoniker": "E:\\Project-School\\version-3\\DTO\\ClassTime.cs",
               "RelativeDocumentMoniker": "DTO\\ClassTime.cs",
@@ -395,7 +426,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 26,
               "Title": "Class.cs",
               "DocumentMoniker": "E:\\Project-School\\version-3\\DTO\\Class.cs",
               "RelativeDocumentMoniker": "DTO\\Class.cs",
@@ -407,7 +438,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Project-School\\version-3\\GUI\\Program.cs",
               "RelativeDocumentMoniker": "GUI\\Program.cs",
@@ -415,20 +446,18 @@
               "RelativeToolTip": "GUI\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T08:16:32.302Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-16T08:16:32.302Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "LopHocPhan.cs [Design]",
               "DocumentMoniker": "E:\\Project-School\\version-3\\GUI\\LopHocPhan.cs",
               "RelativeDocumentMoniker": "GUI\\LopHocPhan.cs",
               "ToolTip": "E:\\Project-School\\version-3\\GUI\\LopHocPhan.cs [Design]",
               "RelativeToolTip": "GUI\\LopHocPhan.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T08:16:08.359Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-05-16T08:16:08.359Z"
             }
           ]
         }
