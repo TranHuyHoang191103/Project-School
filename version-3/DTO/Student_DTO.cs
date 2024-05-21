@@ -8,17 +8,18 @@ namespace DTO
 {
     public class Student_DTO
     {
-        private string id, name, nganh, lop;
-        private int tinhTrang,namHoc;
-        Student_DTO(string name,string nganh,string Lop,int namHoc)
-        {
-            this.name= name;
-            this.nganh= nganh;
-            this.lop= Lop;
-            tinhTrang = 1;
-            this.namHoc= namHoc;
-        }
-        public string getNganh() { return  this.nganh; }
-        public int getNamHoc() {  return this.namHoc; }
+        pprivate string id, name, maLop;
+private int tinhTrang;
+Student_DTO(string name,string nganh,string maLop)
+{
+    this.name= name;
+    
+    this.maLop= maLop;
+    tinhTrang = 1;
+    
+}
+public string getMaLop() {  return this.maLop; }
+public void setMaLop(string maLop) { this.maLop = maLop; }
+public void setID(string id) { this.id = id;}
     }
 }
